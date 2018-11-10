@@ -1,0 +1,7 @@
+D:\Program Files\AStyle_3.1_windows\AStyle\bin\AStyle.exe
+
+--style=gnu 	--indent=spaces=2 -xV -S -K -xW -w -Y -m2 -M60 -U -H -p -xg -k3 -W3 -J -O -o --convert-tabs --suffix=.bak  %sourceFilePath
+
+--style=allman 	--indent=spaces=2 -xV -S    -xW    -Y -m2 -M60 -U    -p -xg -k3 -W3 -j    -o --convert-tabs --suffix=.bak %sourceFilePath
+
+%projectFileDir
