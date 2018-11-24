@@ -3,14 +3,14 @@
 * (c) Copyright 东方久乐汽车电子（上海）股份有限公司
 * ALL RIGHTS RESERVED.
 ***************************************************************************//*!
-* @file      adc_hil.h
-* @author    b35554
+* @file      ADC.h
+* @author    LiQingfei
 * @version   1.0
-* @date      March-23-2011
-* @brief     ADC Module HAL File
+* @date      2018/11/19
+* @brief     ADC Module File
 * @detail
 * @record
-* date       author    description
+* Date       Author    Description
 * 2018/11/19 LiQingfei rewrite the module driver and add scan mode
 ******************************************************************************/
 #ifndef _ADC_H_
