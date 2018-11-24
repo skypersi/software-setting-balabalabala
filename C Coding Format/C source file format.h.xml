@@ -1,0 +1,58 @@
+/******************************************************************************
+* 东方久乐汽车电子（上海）股份有限公司
+* (c) Copyright 东方久乐汽车电子（上海）股份有限公司
+* ALL RIGHTS RESERVED.
+***************************************************************************//*!
+* @file      adc_hil.h
+* @author    b35554
+* @version   1.0
+* @date      March-23-2011
+* @brief     ADC Module HAL File
+* @detail
+* @record
+* date       author    description
+* 2018/11/19 LiQingfei rewrite the module driver and add scan mode
+******************************************************************************/
+#ifndef _ADC_H_
+#define _ADC_H_
+
+/******************************************************************************
+*                  Include
+******************************************************************************/
+
+
+/******************************************************************************
+*                  Global Type and Macro define 
+******************************************************************************/
+
+
+/******************************************************************************
+*                  Global Variable(include Constant)declare
+******************************************************************************/
+
+
+/******************************************************************************
+*                  Global Function declare
+******************************************************************************/
+
+
+/******************************************************************************
+* @brief    ADC_InitToNormanl   Initializes ATD Module to normal sigle sampling
+* @param    none
+* @return   none
+******************************************************************************/
+
+
+/******************************************************************************
+* @brief    ADC_SingleConvertion    Makes a Single Conversion
+* @param    conversion_resolution   Conversion resolution
+* @param    result_addr             Memory address to store the ADC Conversion
+* @param    channel_type            Analog Channel or Special Channel
+* @param    channel                 Channel Number
+* @param    sample_time             ATD Clock Cycles
+* @return   adc_error_t             Error code
+******************************************************************************/
+
+
+
+#endif /*_ADC_H_*/
