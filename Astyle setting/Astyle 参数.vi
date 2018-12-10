@@ -9,7 +9,7 @@ D:\Program Files\AStyle_3.1_windows\AStyle\bin\AStyle.exe
 GNU风格缩进2个空格，但是大括号也缩进
 Allman风格缩进四个空格，但是大括号不缩进
 
---style=gnu 	--indent=spaces=2 -xV -S -K -xW -w -xw -Y -m2 -M60 -U -H -p -xg -k3 -W3 -j -o -O --convert-tabs --suffix=.bak  %sourceFilePath
---style=allman  --indent=spaces=4 -xV -S    -xW -w -xw -Y -m2 -M60 -U    -p -xg -k3 -W3 -j -o -O --convert-tabs --suffix=.bak  %sourceFilePath
+--style=gnu    --convert-tabs --indent=spaces=2 -xV -S -K -xW -w -xw -Y -m2 -M60 -U -H -p -xg -k3 -W3 -j -o -O --suffix=.bak  %sourceFilePath
+--style=allman --convert-tabs --indent=spaces=4 -xV -S    -xW -w -xw -Y -m2 -M60 -U    -p -xg -k3 -W3 -j -o -O --suffix=.bak  %sourceFilePath
 
 %projectFileDir
