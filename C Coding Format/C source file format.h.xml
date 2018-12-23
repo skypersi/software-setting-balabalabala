@@ -1,17 +1,13 @@
-/******************************************************************************
-* 东方久乐汽车电子（上海）股份有限公司
-* (c) Copyright 东方久乐汽车电子（上海）股份有限公司
-* ALL RIGHTS RESERVED.
-***************************************************************************//*!
+/**************************************************************************//**
 * @file      ADC.h
+* @brief     ADC module header file.
+* @details   None.
 * @author    LiQingfei
 * @version   1.0
 * @date      2018/11/19
-* @brief     ADC Module File
-* @detail
-* @record
-* Date       Author    Description
-* 2018/11/19 LiQingfei rewrite the module driver and add scan mode
+* @bug		 None.
+* @warning   None.
+* @copyright 东方久乐汽车电子（上海）股份有限公司 ALL RIGHTS RESERVED.
 ******************************************************************************/
 #ifndef _ADC_H_
 #define _ADC_H_
@@ -22,36 +18,50 @@
 
 
 /******************************************************************************
-*                  Global Type and Macro define 
+*                  Global Type and Macro define
 ******************************************************************************/
+
+/**
+* @brief        Make a Single Conversion.
+* @details      Bala....................
+* Bala..................................
+*/
+enum TEnum {
+	TVal1, /**< enum value TVal1. */
+	TVal2, /**< enum value TVal2. */
+	TVal3  /**< enum value TVal3. */
+}
+
+/** 
+* @brief	A macro that returns the maximum of na a and na b.
+* @details  None
+*/
+#define MAX(a,b) (((a)>(b))?(a):(b))
 
 
 /******************************************************************************
-*                  Global Variable(include Constant)declare
+*                  Global Variable and Constant declare
 ******************************************************************************/
+
+extern int16_t g_example_variable; /** brief description */
 
 
 /******************************************************************************
 *                  Global Function declare
 ******************************************************************************/
 
-
-/******************************************************************************
-* @brief    ADC_InitToNormanl   Initializes ATD Module to normal sigle sampling
-* @param    none
-* @return   none
-******************************************************************************/
-
-
-/******************************************************************************
-* @brief    ADC_SingleConvertion    Makes a Single Conversion
-* @param    conversion_resolution   Conversion resolution
-* @param    result_addr             Memory address to store the ADC Conversion
-* @param    channel_type            Analog Channel or Special Channel
-* @param    channel                 Channel Number
-* @param    sample_time             ATD Clock Cycles
-* @return   adc_error_t             Error code
-******************************************************************************/
+/**
+* @brief        Make a Single Conversion.
+* @see          anotherFun()
+* @bug		    None.
+* @warning      None.
+* @param[in]    channel                 Channel Number.
+* @param[in]    channel_type            Analog Channel or Special Channel.
+* @param[in]    conversion_resolution   Conversion resolution.
+* @param[in]    sample_time             ATD Clock Cycles.
+* @param[out]   result_addr             Memory address to store the ADC Conversion.
+* @return   	if initialize error return xxxxxx, else return zero.
+*/
 
 
 
