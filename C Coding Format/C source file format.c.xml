@@ -52,28 +52,29 @@
 /******************************************************************************
 *                  Include
 ******************************************************************************/
+
 #include "ADC.h"
+
 
 /******************************************************************************
 *                  Global Variable and Constant define
 ******************************************************************************/
 
-/** front comment */
 int16_t g_example_variable = 0; /**< behind comment*/
+
 
 /*****************************************************************************
 *                  Local Type and Macro define
 ******************************************************************************/
 
 /**
-* @brief 	rief type commment in front of it
-* @details	details type commment in front of it, 
-* Bala.........................................
+* @brief 	brief commment.
+* @details	detail commment.
 */
 enum TEnum {
-	TVal1, /**< TVal1 member comment behind it. */
-	TVal2, /**< TVal2 member comment behind it. */
-	TVal3  /**< TVal3 member comment behind it. */
+	TVal1, /**< TVal1. */
+	TVal2, /**< TVal2. */
+	TVal3  /**< TVal3. */
 }
 
 /** 
@@ -100,9 +101,7 @@ enum TEnum {
 /**
 * @brief        Make a Single Conversion.
 * @details      Bala....................
-* Bala..................................
-* @see          anotherFun()
-* @bug		    None.
+* @see          anotherFun().
 * @warning      None.
 * @param[in]    channel                 Channel Number.
 * @param[in]    channel_type            Analog Channel or Special Channel.

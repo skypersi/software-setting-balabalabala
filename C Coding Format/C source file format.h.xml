@@ -22,9 +22,8 @@
 ******************************************************************************/
 
 /**
-* @brief        Make a Single Conversion.
-* @details      Bala....................
-* Bala..................................
+* @brief        brief description.
+* @details      detail description
 */
 enum TEnum {
 	TVal1, /**< enum value TVal1. */
@@ -43,7 +42,7 @@ enum TEnum {
 *                  Global Variable and Constant declare
 ******************************************************************************/
 
-extern int16_t g_example_variable; /** brief description */
+extern int16_t g_example_variable; /**< brief description */
 
 
 /******************************************************************************
@@ -52,15 +51,6 @@ extern int16_t g_example_variable; /** brief description */
 
 /**
 * @brief        Make a Single Conversion.
-* @see          anotherFun()
-* @bug		    None.
-* @warning      None.
-* @param[in]    channel                 Channel Number.
-* @param[in]    channel_type            Analog Channel or Special Channel.
-* @param[in]    conversion_resolution   Conversion resolution.
-* @param[in]    sample_time             ATD Clock Cycles.
-* @param[out]   result_addr             Memory address to store the ADC Conversion.
-* @return   	if initialize error return xxxxxx, else return zero.
 */
 
 
