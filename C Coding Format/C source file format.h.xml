@@ -11,6 +11,9 @@
 #ifndef _ADC_H_
 #define _ADC_H_
 
+#ifdef __cplusplus
+extern "C" {
+#endif
 /******************************************************************************
 *                  Include
 ******************************************************************************/
@@ -30,12 +33,6 @@ enum TEnum {
 	TVal3  /**< enum value TVal3. */
 }
 
-/** 
-* @brief	A macro that returns the maximum of na a and na b.
-* @details  None
-*/
-#define MAX(a,b) (((a)>(b))?(a):(b))
-
 
 /******************************************************************************
 *                  Global Variable and Constant declare
@@ -52,6 +49,8 @@ extern int16_t g_example_variable; /**< brief description */
 * @brief        Make a Single Conversion.
 */
 
-
+#ifdef __cplusplus
+}
+#endif
 
 #endif /*_ADC_H_*/
