@@ -27,18 +27,18 @@ extern "C" {
 * @brief        brief description.
 * @details      detail description
 */
-enum TEnum {
-	TVal1, /**< enum value TVal1. */
-	TVal2, /**< enum value TVal2. */
-	TVal3  /**< enum value TVal3. */
-}
+//enum TEnum {
+//	TVal1, /**< enum value TVal1. */
+//	TVal2, /**< enum value TVal2. */
+//	TVal3  /**< enum value TVal3. */
+//}
 
 
 /******************************************************************************
 *                  Global Variable and Constant declare
 ******************************************************************************/
 
-extern int16_t g_example_variable; /**< brief description */
+//extern int16_t g_example_variable; /**< brief description */
 
 
 /******************************************************************************

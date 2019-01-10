@@ -25,7 +25,7 @@
 *                  Global Variable and Constant define
 ******************************************************************************/
 
-int16_t g_example_variable = 0; /**< behind comment*/
+//int16_t g_example_variable = 0; /**< behind comment*/
 
 
 /*****************************************************************************
@@ -36,11 +36,11 @@ int16_t g_example_variable = 0; /**< behind comment*/
 * @brief 	brief commment.
 * @details	detail commment.
 */
-enum TEnum {
-	TVal1, /**< TVal1. */
-	TVal2, /**< TVal2. */
-	TVal3  /**< TVal3. */
-}
+//enum TEnum {
+//	TVal1, /**< TVal1. */
+//	TVal2, /**< TVal2. */
+//	TVal3  /**< TVal3. */
+//}
 
 
 /******************************************************************************
