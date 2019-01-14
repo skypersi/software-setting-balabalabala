@@ -1,4 +1,4 @@
-#Sat Jan 12 19:06:58 CST 2019
+#Mon Jan 14 11:05:10 CST 2019
 \!/=
 /configuration/com.genuitec.eclipse.monitor//webclipse/ideused/dayOfMonth=12
 /configuration/com.genuitec.eclipse.monitor//webclipse/ideused/month=0
@@ -368,7 +368,7 @@
 /instance/org.eclipse.cdt.ui/semanticHighlighting.typedef.color=128,0,255
 /instance/org.eclipse.cdt.ui/sourceHoverBackgroundColor=255,255,225
 /instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
-/instance/org.eclipse.cdt.ui/spelling_user_dictionary=E\:\\EclipseCDT\\dictionary_li
+/instance/org.eclipse.cdt.ui/spelling_user_dictionary=E\:\\GitHub\\software-setting-balabalabala\\Eclipse Setting\\S32DS_dictionary
 /instance/org.eclipse.cdt.ui/spelling_user_dictionary_encoding=
 /instance/org.eclipse.cdt.ui/useAnnotationsPrefPage=true
 /instance/org.eclipse.cdt.ui/useQuickDiffPrefPage=true
