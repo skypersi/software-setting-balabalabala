@@ -1,4 +1,4 @@
-#Sun Jan 20 17:05:51 CST 2019
+#Sun Jan 20 17:23:50 CST 2019
 \!/=
 /configuration/com.freescale.s32ds.cross.sdk.support/FILTER_SDKs_SHOW_LATEST_VERSIONS=false
 /configuration/com.genuitec.eclipse.monitor//webclipse/ideused/dayOfMonth=14
@@ -2992,10 +2992,8 @@
 /instance/org.eclipse.ui.editors/linked.slave.color=66,156,255
 /instance/org.eclipse.ui.editors/matchingTagIndicationColor=7,54,66
 /instance/org.eclipse.ui.editors/occurrenceIndicationColor=7,54,66
-/instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.occurrenceIndicationColor=255,255,128
-/instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.writeOccurrenceHighlighting=false
-/instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.writeOccurrenceIndicationColor=191,191,191
-/instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.writeOccurrenceTextStyle=BOX
+/instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.occurrenceIndicationColor=96,96,0
+/instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.writeOccurrenceIndicationColor=128,64,0
 /instance/org.eclipse.ui.editors/overriddenByCSS=,AbstractTextEditor.Color.Background,AbstractTextEditor.Color.Background.SystemDefault,AbstractTextEditor.Color.FindScope,AbstractTextEditor.Color.Foreground,AbstractTextEditor.Color.Foreground.SystemDefault,AbstractTextEditor.Color.SelectionBackground.SystemDefault,AbstractTextEditor.Color.SelectionForeground,AbstractTextEditor.Color.SelectionForeground.SystemDefault,PHPReadOccurrenceIndicationColor,PHPWriteOccurrenceIndicationColor,asOccurencesIndicationColor,breakpointIndicationColor,currentIPColor,currentLineColor,deletionIndicationColor,filteredSearchResultIndicationColor,findBlockColor,findIndicationColor,hyperlinkColor,hyperlinkColor.SystemDefault,infoIndicationColor,javaScriptOccurrenceIndicationColor,lineNumberColor,linked.slave.color,matchingTagIndicationColor,occurrenceIndicationColor,overrideIndicatorColor,printMarginColor,pydevOccurrenceIndicationColor,searchResultHighlighting,searchResultIndication,searchResultIndicationColor,searchResultTextStyle,secondaryIPColor,spellingIndicationColor,writeOccurrenceIndicationColor,
 /instance/org.eclipse.ui.editors/overrideIndicatorColor=75,116,113
 /instance/org.eclipse.ui.editors/overviewRuler_migration=migrated_3.1
