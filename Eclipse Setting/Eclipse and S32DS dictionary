@@ -42,3 +42,6 @@ endif
 shanghai
 anytime
 printf
+pragma
+int
+stabilise
