@@ -1,4 +1,4 @@
-#Wed Feb 20 18:45:16 CST 2019
+#Fri Feb 22 11:37:18 CST 2019
 \!/=
 /configuration/com.freescale.s32ds.cross.sdk.support/FILTER_SDKs_SHOW_LATEST_VERSIONS=false
 /configuration/com.genuitec.eclipse.inlinesearch/isInlineSearchEnabled=false
@@ -422,7 +422,6 @@
 /instance/org.eclipse.cdt.ui/spelling_user_dictionary_encoding=
 /instance/org.eclipse.cdt.ui/useAnnotationsPrefPage=true
 /instance/org.eclipse.cdt.ui/useQuickDiffPrefPage=true
-/instance/org.eclipse.core.resources/encoding=UTF-8
 /instance/org.eclipse.core.resources/pathvariable.FREEMASTER_KEAXX_2_0_0_PATH=D\:/NXP/S32DS_ARM_v2018.R1/S32DS/FreeMASTER_Serial_Communication_Driver_V2_0
 /instance/org.eclipse.core.resources/pathvariable.FREEMASTER_S32XX_2_0_0_PATH=D\:/NXP/S32DS_ARM_v2018.R1/S32DS/FreeMASTER_Serial_Communication_Driver_V2_0
 /instance/org.eclipse.core.resources/pathvariable.KEAX_AMMCLIB_GCC_1_1_11_PATH=D\:/NXP/S32DS_ARM_v2018.R1/S32DS/KEAx_AMMCLIB_v1.1.11
@@ -509,6 +508,7 @@
 /instance/org.eclipse.ui.editors/matchingTagIndicationColor=72,72,72
 /instance/org.eclipse.ui.editors/occurrenceIndicationColor=27,98,145
 /instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.occurrenceHighlighting=false
+/instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.occurrenceIndication=true
 /instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.occurrenceTextStyle=BOX
 /instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.writeOccurrenceIndicationColor=128,64,64
 /instance/org.eclipse.ui.editors/overriddenByCSS=,AbstractTextEditor.Color.Background.SystemDefault,AbstractTextEditor.Color.SelectionForeground.SystemDefault,AbstractTextEditor.Color.SelectionBackground.SystemDefault,AbstractTextEditor.Color.Background,AbstractTextEditor.Color.Foreground.SystemDefault,AbstractTextEditor.Color.SelectionBackground,AbstractTextEditor.Color.SelectionForeground,AbstractTextEditor.Color.Foreground,AbstractTextEditor.Color.FindScope,asOccurencesIndicationColor,breakpointIndicationColor,currentIPColor,currentLineColor,deletionIndicationColor,filteredSearchResultIndicationColor,hyperlinkColor,hyperlinkColor.SystemDefault,infoIndicationColor,lineNumberColor,linked.slave.color,matchingTagIndicationColor,occurrenceIndicationColor,overrideIndicatorColor,printMarginColor,searchResultHighlighting,searchResultIndication,searchResultIndicationColor,searchResultTextStyle,secondaryIPColor,spellingIndicationColor,writeOccurrenceIndicationColor,

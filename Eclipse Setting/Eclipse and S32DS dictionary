@@ -45,3 +45,13 @@ printf
 pragma
 int
 stabilise
+timebase
+memcpy
+cmd
+nop
+min
+typ
+lim
+dk
+bool
+struct
