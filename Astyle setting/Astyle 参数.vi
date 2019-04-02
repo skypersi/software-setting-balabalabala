@@ -1,5 +1,3 @@
-D:\Program Files\AStyle_3.1_windows\AStyle\bin\AStyle.exe
-
 #Astyle3.1
 建议把Tab转成空格,因为每个人的习惯各不相同，有的人习惯使用空格有的人习惯使用Tab，
 同一个人有时也会有这两种习惯混搭的时候，把Tab长度统一了虽然对齐的一致性不再是问题，
@@ -12,7 +10,14 @@ Allman风格缩进四个空格，但是大括号不缩进
 
 关于预编译的缩进处理有点令人不满意，建议少用宏
 
---style=gnu    --convert-tabs --indent=spaces=2 -xV -S -K -xW -w -xw -Y -m2 -M60 -U -H -p -xg -k3 -W3 -j -o -O --suffix=.bak  %sourceFilePath
---style=allman --convert-tabs --indent=spaces=4 -xV -S    -xW -w -xw -Y -m2 -M60 -U    -p -xg -k3 -W3 -j -o -O --suffix=.bak  %sourceFilePath
+Name:
+AStyle_allman
 
+Execute: 
+D:\Program Files\AStyle_3.1_windows\AStyle\bin\AStyle.exe
+
+Arguments:
+--style=allman --convert-tabs --indent=spaces=4 -xV -S -xw -Y -m0 -M60 -U  -p -xg -k3 -W3 -j -o -O --suffix=.bak  %sourceFilePath
+
+Directory:
 %projectFileDir
