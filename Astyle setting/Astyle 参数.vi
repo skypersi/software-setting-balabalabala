@@ -18,6 +18,7 @@ D:\Program Files\AStyle_3.1_windows\AStyle\bin\AStyle.exe
 
 Arguments:
 --style=allman --convert-tabs --indent=spaces=4 -xV -S -xw -Y -m0 -M60 -U  -p -xg -k3 -W3 -j -o -O --suffix=.bak  %sourceFilePath
+--style=allman --convert-tabs --indent=spaces=4 -xV -S -xw -Y -m0 -M60 -U  -p -xg -k3 -W3 -j -o -O --suffix=.bak
 
 Directory:
 %projectFileDir
